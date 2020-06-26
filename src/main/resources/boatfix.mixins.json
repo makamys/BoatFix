@@ -1,12 +1,10 @@
 {
   "required": true,
-  "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "minVersion": "0.7",
+  "package": "makamys.boatfix.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-  ],
-  "client": [
-    "ExampleMixin"
+  	"MixinEntity"
   ],
   "injectors": {
     "defaultRequire": 1

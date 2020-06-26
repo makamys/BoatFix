@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# BoatFix
 
-## Setup
+In 1.16 there's a bug that causes small mobs (e.g. cats and foxes) to take drowning damage while riding a boat ([MC-189788](https://bugs.mojang.com/browse/MC-189788)). 
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod fixes that. That's all it does.
